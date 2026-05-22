@@ -1,4 +1,3 @@
-* 📁 **Project-2-Fluid-Layout:** Pure responsive presentation design utilizing CSS Media Queries and fluid frameworks.
 ## 📐 Project 2: Responsive Web Layout
 ### Core Objective
 To develop a responsive interface designed entirely from the content out, discarding fixed device widths to guarantee complete absolute fluidity across all screens.
